@@ -1,0 +1,15 @@
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ClasesAbstractas2.exe
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ClasesAbstractas2.deps.json
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ClasesAbstractas2.runtimeconfig.json
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ClasesAbstractas2.dll
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ref\ClasesAbstractas2.dll
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\bin\Debug\net6.0\ClasesAbstractas2.pdb
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.csproj.AssemblyReference.cache
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.AssemblyInfoInputs.cache
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.AssemblyInfo.cs
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.csproj.CoreCompileInputs.cache
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.dll
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ref\ClasesAbstractas2.dll
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.pdb
+C:\Users\Jevin\source\repos\ClasesAbstractas2\ClasesAbstractas2\obj\Debug\net6.0\ClasesAbstractas2.genruntimeconfig.cache

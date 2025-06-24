@@ -1,0 +1,16 @@
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.exe
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.deps.json
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.runtimeconfig.json
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.runtimeconfig.dev.json
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.dll
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\ref\Composicion e Implementación.dll
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\bin\Debug\net5.0\Composicion e Implementación.pdb
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.csproj.AssemblyReference.cache
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.AssemblyInfoInputs.cache
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.AssemblyInfo.cs
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.csproj.CoreCompileInputs.cache
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.dll
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\ref\Composicion e Implementación.dll
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.pdb
+C:\Users\JETSTEREO\source\repos\Composicion e Implementación\Composicion e Implementación\obj\Debug\net5.0\Composicion e Implementación.genruntimeconfig.cache

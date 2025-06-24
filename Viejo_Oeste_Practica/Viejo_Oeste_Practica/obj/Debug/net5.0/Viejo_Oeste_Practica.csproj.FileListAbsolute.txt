@@ -1,0 +1,32 @@
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.exe
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.deps.json
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.runtimeconfig.json
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.runtimeconfig.dev.json
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.dll
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\ref\Viejo_Oeste_Practica.dll
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.pdb
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.csproj.AssemblyReference.cache
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.AssemblyInfoInputs.cache
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.AssemblyInfo.cs
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.csproj.CoreCompileInputs.cache
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.dll
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\ref\Viejo_Oeste_Practica.dll
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.pdb
+C:\Users\JETSTEREO\source\repos\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.genruntimeconfig.cache
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.exe
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.deps.json
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.runtimeconfig.json
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.runtimeconfig.dev.json
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.dll
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\ref\Viejo_Oeste_Practica.dll
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\bin\Debug\net5.0\Viejo_Oeste_Practica.pdb
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.csproj.AssemblyReference.cache
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.AssemblyInfoInputs.cache
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.AssemblyInfo.cs
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.csproj.CoreCompileInputs.cache
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.dll
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\ref\Viejo_Oeste_Practica.dll
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.pdb
+E:\Unah 2021\III PAC 2021\Lenguaje de programación 2\Segundo Parcial\Viejo Oeste Practica\Viejo_Oeste_Practica\Viejo_Oeste_Practica\obj\Debug\net5.0\Viejo_Oeste_Practica.genruntimeconfig.cache

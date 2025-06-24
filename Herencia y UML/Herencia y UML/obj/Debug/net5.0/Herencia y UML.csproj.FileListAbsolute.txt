@@ -1,0 +1,16 @@
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.exe
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.deps.json
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.runtimeconfig.json
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.runtimeconfig.dev.json
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.dll
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\ref\Herencia y UML.dll
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\bin\Debug\net5.0\Herencia y UML.pdb
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.csproj.AssemblyReference.cache
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.AssemblyInfoInputs.cache
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.AssemblyInfo.cs
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.csproj.CoreCompileInputs.cache
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.dll
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\ref\Herencia y UML.dll
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.pdb
+C:\Users\JETSTEREO\source\repos\Herencia y UML\Herencia y UML\obj\Debug\net5.0\Herencia y UML.genruntimeconfig.cache

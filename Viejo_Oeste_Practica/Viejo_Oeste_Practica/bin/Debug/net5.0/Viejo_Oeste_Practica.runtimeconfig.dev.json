@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jevin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jevin\\.nuget\\packages"
+    ]
+  }
+}

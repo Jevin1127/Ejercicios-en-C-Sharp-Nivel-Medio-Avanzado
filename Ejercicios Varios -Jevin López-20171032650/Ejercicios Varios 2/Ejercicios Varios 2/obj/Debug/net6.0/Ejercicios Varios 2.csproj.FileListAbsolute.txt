@@ -1,0 +1,15 @@
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\Ejercicios Varios 2.exe
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\Ejercicios Varios 2.deps.json
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\Ejercicios Varios 2.runtimeconfig.json
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\Ejercicios Varios 2.dll
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\ref\Ejercicios Varios 2.dll
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\bin\Debug\net6.0\Ejercicios Varios 2.pdb
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.csproj.AssemblyReference.cache
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.AssemblyInfoInputs.cache
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.AssemblyInfo.cs
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.csproj.CoreCompileInputs.cache
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.dll
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\ref\Ejercicios Varios 2.dll
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.pdb
+C:\Users\Jevin\source\repos\Ejercicios Varios 2\Ejercicios Varios 2\obj\Debug\net6.0\Ejercicios Varios 2.genruntimeconfig.cache
